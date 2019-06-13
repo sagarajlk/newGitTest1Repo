@@ -10,6 +10,8 @@ public class MyMain {
 		for (int i = 0; i < names.length; i++) {
 			
 			System.out.format("Hello, %s!\n", names[i]);
+			System.out.println("This is from 22222222");
+			System.out.println("This is from 11111111");
 			
 		}
 		
